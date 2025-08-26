@@ -1,0 +1,34 @@
+# Git LFS para imágenes, texturas y modelos
+*.psd
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.exr
+*.tif
+*.tiff
+
+# Git LFS para archivos de audio y video
+*.mp3
+*.wav
+*.ogg
+*.mp4
+*.mov
+
+# Git LFS para modelos 3D
+*.fbx
+*.obj
+*.blend
+
+# Git LFS para assets Unity
+*.prefab
+*.unity
+*.asset
+*.mat
+*.anim
+*.controller
+
+# Git LFS para fuentes y dlls
+*.ttf
+*.otf
+*.dll
